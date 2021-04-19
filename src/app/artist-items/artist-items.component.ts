@@ -5,6 +5,11 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './artist-items.component.html',
   inputs: ['artist']
 })
+
+
+
+
+
 export class ArtistItemsComponent implements OnInit {
 
   constructor() { }
